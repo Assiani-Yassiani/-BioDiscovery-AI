@@ -1,0 +1,225 @@
+[
+  {
+    "source": "kegg",
+    "image_type": "pathway",
+    "file_path": "C:\\Users\\Yassine\\Downloads\\biodiscovery-ai\\biodiscovery-ai\\backend\\data\\images\\hsa05200.png",
+    "url": "https://www.kegg.jp/kegg/pathway/hsa/hsa05200.png",
+    "caption": "KEGG Pathway: Pathways in cancer",
+    "description": "Pathway diagram for Pathways in cancer (hsa05200)",
+    "gene_name": null,
+    "prognostic_data": null,
+    "expression_data": null,
+    "cancer_types": null,
+    "normalized_bridge": {
+      "genes": [
+        "TP53",
+        "KRAS",
+        "EGFR"
+      ],
+      "diseases": [],
+      "processes": [],
+      "pathways": [
+        "hsa05200"
+      ],
+      "keywords": [
+        "pathway",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "source": "kegg",
+    "image_type": "pathway",
+    "file_path": "C:\\Users\\Yassine\\Downloads\\biodiscovery-ai\\biodiscovery-ai\\backend\\data\\images\\hsa05210.png",
+    "url": "https://www.kegg.jp/kegg/pathway/hsa/hsa05210.png",
+    "caption": "KEGG Pathway: Colorectal cancer",
+    "description": "Pathway diagram for Colorectal cancer (hsa05210)",
+    "gene_name": null,
+    "prognostic_data": null,
+    "expression_data": null,
+    "cancer_types": null,
+    "normalized_bridge": {
+      "genes": [
+        "APC",
+        "KRAS",
+        "TP53"
+      ],
+      "diseases": [],
+      "processes": [],
+      "pathways": [
+        "hsa05210"
+      ],
+      "keywords": [
+        "pathway",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "source": "kegg",
+    "image_type": "pathway",
+    "file_path": "C:\\Users\\Yassine\\Downloads\\biodiscovery-ai\\biodiscovery-ai\\backend\\data\\images\\hsa05224.png",
+    "url": "https://www.kegg.jp/kegg/pathway/hsa/hsa05224.png",
+    "caption": "KEGG Pathway: Breast cancer",
+    "description": "Pathway diagram for Breast cancer (hsa05224)",
+    "gene_name": null,
+    "prognostic_data": null,
+    "expression_data": null,
+    "cancer_types": null,
+    "normalized_bridge": {
+      "genes": [
+        "BRCA1",
+        "BRCA2",
+        "ERBB2"
+      ],
+      "diseases": [],
+      "processes": [],
+      "pathways": [
+        "hsa05224"
+      ],
+      "keywords": [
+        "pathway",
+        "cancer"
+      ]
+    }
+  },
+  {
+    "source": "HPA",
+    "image_type": "subcellular_localization",
+    "file_path": "C:\\Users\\Yassine\\Downloads\\biodiscovery-ai\\biodiscovery-ai\\backend\\data\\images\\hpa_her2_subcellular.png",
+    "url": "https://www.proteinatlas.org/ENSG00000012048-BRCA1/subcellular#img",
+    "caption": "Human Protein Atlas: HER2/ERBB2 subcellular localization",
+    "description": "Immunofluorescence showing HER2 receptor localization at plasma membrane. HER2 is overexpressed in 20% of breast cancers and targeted by trastuzumab.",
+    "gene_name": "ERBB2",
+    "ensembl_id": "ENSG00000141736",
+    "location": "Plasma membrane",
+    "normalized_bridge": {
+      "genes": [
+        "ERBB2",
+        "HER2"
+      ],
+      "diseases": [
+        "breast cancer",
+        "gastric cancer",
+        "HER2-positive cancer"
+      ],
+      "pathways": [
+        "ERBB signaling",
+        "PI3K-Akt signaling"
+      ],
+      "keywords": [
+        "receptor tyrosine kinase",
+        "oncogene",
+        "trastuzumab",
+        "immunofluorescence"
+      ]
+    }
+  }, {
+    "source": "kegg",
+    "image_type": "pathway",
+    "file_path": "C:\\Users\\Yassine\\Downloads\\biodiscovery-ai\\biodiscovery-ai\\backend\\data\\images\\hsa04110.png",
+    "url": "https://www.kegg.jp/kegg/pathway/hsa/hsa04110.png",
+    "caption": "KEGG Pathway: Cell cycle",
+    "description": "Pathway diagram for Cell cycle (hsa04110)",
+    "gene_name": null,
+    "prognostic_data": null,
+    "expression_data": null,
+    "cancer_types": null,
+    "normalized_bridge": {
+      "genes": [
+        "TP53",
+        "RB1",
+        "CDK4"
+      ],
+      "diseases": [],
+      "processes": [],
+      "pathways": [
+        "hsa04110"
+      ],
+      "keywords": [
+        "pathway"
+      ]
+    }
+  },
+  {
+    "source": "kegg",
+    "image_type": "pathway",
+    "file_path": "C:\\Users\\Yassine\\Downloads\\biodiscovery-ai\\biodiscovery-ai\\backend\\data\\images\\hsa04210.png",
+    "url": "https://www.kegg.jp/kegg/pathway/hsa/hsa04210.png",
+    "caption": "KEGG Pathway: Apoptosis",
+    "description": "Pathway diagram for Apoptosis (hsa04210)",
+    "gene_name": null,
+    "prognostic_data": null,
+    "expression_data": null,
+    "cancer_types": null,
+    "normalized_bridge": {
+      "genes": [
+        "TP53",
+        "BAX",
+        "BCL2"
+      ],
+      "diseases": [],
+      "processes": [],
+      "pathways": [
+        "hsa04210"
+      ],
+      "keywords": [
+        "pathway"
+      ]
+    }
+  },
+  {
+    "source": "kegg",
+    "image_type": "pathway",
+    "file_path": "C:\\Users\\Yassine\\Downloads\\biodiscovery-ai\\biodiscovery-ai\\backend\\data\\images\\hsa04151.png",
+    "url": "https://www.kegg.jp/kegg/pathway/hsa/hsa04151.png",
+    "caption": "KEGG Pathway: PI3K-Akt signaling",
+    "description": "Pathway diagram for PI3K-Akt signaling (hsa04151)",
+    "gene_name": null,
+    "prognostic_data": null,
+    "expression_data": null,
+    "cancer_types": null,
+    "normalized_bridge": {
+      "genes": [
+        "PIK3CA",
+        "AKT1",
+        "PTEN"
+      ],
+      "diseases": [],
+      "processes": [],
+      "pathways": [
+        "hsa04151"
+      ],
+      "keywords": [
+        "pathway"
+      ]
+    }
+  },
+  {
+    "source": "kegg",
+    "image_type": "pathway",
+    "file_path": "C:\\Users\\Yassine\\Downloads\\biodiscovery-ai\\biodiscovery-ai\\backend\\data\\images\\hsa04010.png",
+    "url": "https://www.kegg.jp/kegg/pathway/hsa/hsa04010.png",
+    "caption": "KEGG Pathway: MAPK signaling",
+    "description": "Pathway diagram for MAPK signaling (hsa04010)",
+    "gene_name": null,
+    "prognostic_data": null,
+    "expression_data": null,
+    "cancer_types": null,
+    "normalized_bridge": {
+      "genes": [
+        "KRAS",
+        "BRAF",
+        "ERK"
+      ],
+      "diseases": [],
+      "processes": [],
+      "pathways": [
+        "hsa04010"
+      ],
+      "keywords": [
+        "pathway"
+      ]
+    }
+  }
+]

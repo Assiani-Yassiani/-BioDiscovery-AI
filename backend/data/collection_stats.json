@@ -1,0 +1,14 @@
+[
+  {
+    "query": "cancer",
+    "timestamp": "2026-01-27T23:33:54.036608",
+    "results": {
+      "papers": 10,
+      "images": 7,
+      "experiments": 15,
+      "sequences": 5,
+      "structures": 3,
+      "structures-alphafold": 4
+    }
+  }
+]

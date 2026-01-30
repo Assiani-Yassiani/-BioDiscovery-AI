@@ -1,0 +1,179 @@
+[
+  {
+    "pdb_id": "2N8B",
+    "alphafold_id": null,
+    "title": "Cysteine knot with integrin avb6 cancer recognition site",
+    "method": "SOLUTION NMR",
+    "resolution": null,
+    "uniprot_ids": [],
+    "chains": [],
+    "ligands": [],
+    "file_path": "C:\\Users\\Yassine\\Downloads\\biodiscovery-ai\\biodiscovery-ai\\backend\\data\\structures_pdb\\2N8B.pdb",
+    "normalized_bridge": {
+      "genes": [],
+      "diseases": [],
+      "processes": [],
+      "pathways": [],
+      "keywords": [
+        "structure",
+        "3d",
+        "pdb",
+        "experimental"
+      ]
+    }
+  },
+  {
+    "pdb_id": "2N8C",
+    "alphafold_id": null,
+    "title": "Cystein knot with 2fp integrin avb6 cancer recognition site",
+    "method": "SOLUTION NMR",
+    "resolution": null,
+    "uniprot_ids": [],
+    "chains": [],
+    "ligands": [],
+    "file_path": "C:\\Users\\Yassine\\Downloads\\biodiscovery-ai\\biodiscovery-ai\\backend\\data\\structures_pdb\\2N8C.pdb",
+    "normalized_bridge": {
+      "genes": [],
+      "diseases": [],
+      "processes": [],
+      "pathways": [],
+      "keywords": [
+        "structure",
+        "3d",
+        "pdb",
+        "experimental"
+      ]
+    }
+  },
+  {
+    "pdb_id": "9D2N",
+    "alphafold_id": null,
+    "title": "Nanotube of F5",
+    "method": "ELECTRON MICROSCOPY",
+    "resolution": 3.5,
+    "uniprot_ids": [],
+    "chains": [],
+    "ligands": [],
+    "file_path": "C:\\Users\\Yassine\\Downloads\\biodiscovery-ai\\biodiscovery-ai\\backend\\data\\structures_pdb\\9D2N.pdb",
+    "normalized_bridge": {
+      "genes": [],
+      "diseases": [],
+      "processes": [],
+      "pathways": [],
+      "keywords": [
+        "structure",
+        "3d",
+        "pdb",
+        "experimental"
+      ]
+    }
+  },
+  {
+    "pdb_id": null,
+    "alphafold_id": "AF-Q9Y238-F1",
+    "title": "AlphaFold prediction: Deleted in lung and esophageal cancer protein 1 DLEC1",
+    "method": "predicted",
+    "resolution": null,
+    "uniprot_ids": [
+      "Q9Y238"
+    ],
+    "chains": [],
+    "ligands": [],
+    "file_path": "C:\\Users\\Yassine\\Downloads\\biodiscovery-ai\\biodiscovery-ai\\backend\\data\\structures_alphafold\\Q9Y238.pdb",
+    "normalized_bridge": {
+      "genes": [
+        "DLEC1"
+      ],
+      "diseases": [],
+      "processes": [],
+      "pathways": [],
+      "keywords": [
+        "structure",
+        "3d",
+        "alphafold",
+        "predicted"
+      ]
+    }
+  },
+  {
+    "pdb_id": null,
+    "alphafold_id": "AF-Q5HYN5-F1",
+    "title": "AlphaFold prediction: Cancer/testis antigen family 45 member A1",
+    "method": "predicted",
+    "resolution": null,
+    "uniprot_ids": [
+      "Q5HYN5"
+    ],
+    "chains": [],
+    "ligands": [],
+    "file_path": "C:\\Users\\Yassine\\Downloads\\biodiscovery-ai\\biodiscovery-ai\\backend\\data\\structures_alphafold\\Q5HYN5.pdb",
+    "normalized_bridge": {
+      "genes": [
+        "CT45A1"
+      ],
+      "diseases": [],
+      "processes": [],
+      "pathways": [],
+      "keywords": [
+        "structure",
+        "3d",
+        "alphafold",
+        "predicted"
+      ]
+    }
+  },
+  {
+    "pdb_id": null,
+    "alphafold_id": "AF-O00559-F1",
+    "title": "AlphaFold prediction: Receptor-binding cancer antigen expressed on SiSo cells",
+    "method": "predicted",
+    "resolution": null,
+    "uniprot_ids": [
+      "O00559"
+    ],
+    "chains": [],
+    "ligands": [],
+    "file_path": "C:\\Users\\Yassine\\Downloads\\biodiscovery-ai\\biodiscovery-ai\\backend\\data\\structures_alphafold\\O00559.pdb",
+    "normalized_bridge": {
+      "genes": [
+        "EBAG9"
+      ],
+      "diseases": [],
+      "processes": [],
+      "pathways": [],
+      "keywords": [
+        "structure",
+        "3d",
+        "alphafold",
+        "predicted"
+      ]
+    }
+  },
+  {
+    "pdb_id": null,
+    "alphafold_id": "AF-P38398-F1",
+    "title": "AlphaFold prediction: Breast cancer type 1 susceptibility protein",
+    "method": "predicted",
+    "resolution": null,
+    "uniprot_ids": [
+      "P38398"
+    ],
+    "chains": [],
+    "ligands": [],
+    "file_path": "C:\\Users\\Yassine\\Downloads\\biodiscovery-ai\\biodiscovery-ai\\backend\\data\\structures_alphafold\\P38398.pdb",
+    "normalized_bridge": {
+      "genes": [
+        "BRCA1"
+      ],
+      "diseases": [],
+      "processes": [],
+      "pathways": [],
+      "keywords": [
+        "structure",
+        "3d",
+        "alphafold",
+        "predicted"
+      ]
+    }
+  }
+]

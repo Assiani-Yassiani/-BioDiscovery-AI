@@ -1,0 +1,146 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom base styles */
+@layer base {
+  body {
+    @apply bg-dark-950 text-dark-100 font-sans antialiased;
+    font-family: 'Inter', sans-serif;
+  }
+
+  /* Custom scrollbar */
+  ::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+  }
+
+  ::-webkit-scrollbar-track {
+    @apply bg-dark-900;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    @apply bg-dark-600 rounded-full;
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    @apply bg-dark-500;
+  }
+}
+
+/* Custom components */
+@layer components {
+  .card {
+    @apply bg-dark-900/50 backdrop-blur-sm border border-dark-700/50 rounded-xl;
+  }
+
+  .card-hover {
+    @apply card transition-all duration-300 hover:border-primary-500/50 hover:shadow-lg hover:shadow-primary-500/10;
+  }
+
+  .btn-primary {
+    @apply px-4 py-2 bg-gradient-to-r from-primary-600 to-primary-500 text-white font-medium rounded-lg 
+           hover:from-primary-500 hover:to-primary-400 transition-all duration-200 
+           shadow-lg shadow-primary-500/25 hover:shadow-primary-500/40;
+  }
+
+  .btn-secondary {
+    @apply px-4 py-2 bg-dark-800 text-dark-100 font-medium rounded-lg border border-dark-700
+           hover:bg-dark-700 hover:border-dark-600 transition-all duration-200;
+  }
+
+  .input-field {
+    @apply w-full px-4 py-3 bg-dark-800 border border-dark-700 rounded-lg text-dark-100
+           placeholder-dark-400 focus:outline-none focus:ring-2 focus:ring-primary-500/50 focus:border-primary-500
+           transition-all duration-200;
+  }
+
+  .badge {
+    @apply inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium;
+  }
+
+  .badge-protein {
+    @apply badge bg-bio-protein/20 text-bio-protein;
+  }
+
+  .badge-article {
+    @apply badge bg-bio-article/20 text-bio-article;
+  }
+
+  .badge-image {
+    @apply badge bg-bio-image/20 text-bio-image;
+  }
+
+  .badge-experiment {
+    @apply badge bg-bio-experiment/20 text-bio-experiment;
+  }
+
+  .badge-structure {
+    @apply badge bg-bio-structure/20 text-bio-structure;
+  }
+
+  /* Gradient backgrounds */
+  .gradient-bg {
+    @apply bg-gradient-to-br from-dark-950 via-dark-900 to-dark-950;
+  }
+
+  .gradient-text {
+    @apply bg-clip-text text-transparent bg-gradient-to-r from-primary-400 via-purple-400 to-pink-400;
+  }
+
+  /* Glass effect */
+  .glass {
+    @apply bg-white/5 backdrop-blur-xl border border-white/10;
+  }
+
+  /* Animation classes */
+  .animate-float {
+    animation: float 6s ease-in-out infinite;
+  }
+
+  @keyframes float {
+    0%, 100% { transform: translateY(0px); }
+    50% { transform: translateY(-20px); }
+  }
+
+  /* Result card type indicators */
+  .result-indicator {
+    @apply absolute left-0 top-0 bottom-0 w-1 rounded-l-xl;
+  }
+
+  .result-indicator-protein {
+    @apply result-indicator bg-bio-protein;
+  }
+
+  .result-indicator-article {
+    @apply result-indicator bg-bio-article;
+  }
+
+  .result-indicator-image {
+    @apply result-indicator bg-bio-image;
+  }
+
+  .result-indicator-experiment {
+    @apply result-indicator bg-bio-experiment;
+  }
+
+  .result-indicator-structure {
+    @apply result-indicator bg-bio-structure;
+  }
+}
+
+/* Utilities */
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+}

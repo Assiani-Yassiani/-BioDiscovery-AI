@@ -1,0 +1,507 @@
+[
+  {
+    "pmid": "41489584",
+    "title": "Agreement Across 10 Artificial Intelligence Models in Assessing HER2 Expression in Breast Cancer Whole Slide Images.",
+    "abstract": "Historically, eligibility for receiving human epidermal growth factor receptor 2 (HER2) targeted therapies was limited to HER2-positive tumors (IHC 3+ or ISH-amplified), but recent advances in antibody-drug conjugates (ADCs) have expanded these criteria to include HER2-low and HER2-ultralow expression. This evolving therapeutic landscape underscores the need for precise and reproducible HER2 assessment. Digital and computational pathology tools may help address these needs, but their measurement variability must be evaluated to inform research and clinical use. We evaluated HER2 scoring variability across 10 independently developed computational pathology artificial intelligence (AI) models applied to 1,124 whole slide images from 733 patients with breast cancer. Analyses included ASCO-CAP categorical scores (0, 1+, 2+, 3+), H-scores, tumor cell staining percentages, and counts of total and stained invasive carcinoma cells. Agreement among models and three pathologists was assessed using pairwise overall percent agreement (OPA), Cohen's kappa, and hierarchical clustering. Median model pairwise OPA for categorical HER2 scores was 65.1% (kappa 0.51). Agreement was highest for HER2 3+ versus not 3+ (OPA 97.3%, kappa 0.86) and lowest for HER2-low cases, reflecting existing measurement challenges. For HER2 0 (negative) vs. not 0 (positive) scoring, the average negative agreement (ANA) was 65.3%, compared to the average positive agreement (APA) of 91.3%, suggesting more agreement in non-HER2 0 scores. H-score and cell count analyses indicated that scoring differences were more related to staining interpretation than tumor cell detection. Pathologists showed numerically higher concordance than models, but interobserver variability persisted. In exploratory analyses, sample type, staining artifacts, and heterogeneous HER2 expression appeared to be associated with discrepancies. AI-based HER2 scoring demonstrated high agreement in identifying HER2 3+ cases. Variability was most pronounced in borderline HER2 categories, particularly in HER2-low, underscoring the need for continued tool refinement for handling low intensity staining. Standardized training datasets, validation frameworks, and regulatory alignment are important to improve reproducibility. Developing reference standards and benchmarking datasets is critical to evaluate performance, support regulatory decision-making, and ensure real-world applicability.",
+    "authors": [
+      "Brittany McKelvey",
+      "Pedro A Torres-Saavedra",
+      "Jessica Li",
+      "Glenn Broeckx",
+      "Frederik Deman",
+      "Siraj Ali",
+      "Hillary S Andrews",
+      "Salim Arslan",
+      "Meir Azulay",
+      "Santhosh Balasubramanian",
+      "J Carl Barrett",
+      "Peter Caie",
+      "Ming Chen",
+      "Daniel Cohen",
+      "Tathagata Dasgupta",
+      "Diana Fahrer",
+      "George Green",
+      "Mark Gustavson",
+      "Sarah Hersey",
+      "Ana Hidalgo-Sastre",
+      "Shahanawaz Jiwani",
+      "Elaine Joseph",
+      "Wonkyung Jung",
+      "Kimary Kulig",
+      "Vladimir Kushnarev",
+      "Jochen K Lennerz",
+      "Xiaoxian Li",
+      "Meredith Lodge",
+      "Joan Mancuso",
+      "Mike Montalto",
+      "Satabhisa Mukhopadhyay",
+      "Foivos Ntelemis",
+      "Matthew Oberley",
+      "Pahini Pandya",
+      "Oscar Puig",
+      "Edward T Richardson",
+      "Alexander Sarachakov",
+      "Mark Stewart",
+      "Lisa M McShane",
+      "Roberto Salgado",
+      "Jeff Allen"
+    ],
+    "journal": "Modern pathology : an official journal of the United States and Canadian Academy of Pathology, Inc",
+    "year": 2027,
+    "doi": "10.1016/j.modpat.2025.100944",
+    "mesh_terms": [],
+    "normalized_bridge": {
+      "genes": [
+        "RET",
+        "AR",
+        "APP",
+        "HER2"
+      ],
+      "diseases": [
+        "breast cancer"
+      ],
+      "processes": [],
+      "pathways": [],
+      "keywords": []
+    }
+  },
+  {
+    "pmid": "41556863",
+    "title": "Misinformation and Overestimation of Computed Tomography Lung Cancer Screening Harms-Methodology Matters: A Joint Statement from The Society of Thoracic Surgeons, the American Society for Radiation Oncology, and the American College of Radiology.",
+    "abstract": "",
+    "authors": [
+      "Haley I Tupper",
+      "Joseph B Shrager",
+      "Drew Moghanaki",
+      "Charles B Simone",
+      "Ella A Kazerooni",
+      "Eric M Hart",
+      "David T Cooke",
+      "Jeffrey B Velotta",
+      "Betty C Tong",
+      "Hari B Keshava",
+      "Cherie P Erkmen",
+      "Chi-Fu J Yang",
+      "Elliot L Servais"
+    ],
+    "journal": "International journal of radiation oncology, biology, physics",
+    "year": 2027,
+    "doi": "10.1016/j.ijrobp.2025.12.030",
+    "mesh_terms": [],
+    "normalized_bridge": {
+      "genes": [
+        "MET",
+        "AR"
+      ],
+      "diseases": [
+        "lung cancer"
+      ],
+      "processes": [],
+      "pathways": [],
+      "keywords": []
+    }
+  },
+  {
+    "pmid": "41556861",
+    "title": "Misinformation and Overestimation of Computed Tomography Lung Cancer Screening Harms - Methodology Matters: A Joint Statement from the Society of Thoracic Surgeons, the American Society for Radiation Oncology, and the American College of Radiology.",
+    "abstract": "",
+    "authors": [
+      "Haley I Tupper",
+      "Joseph B Shrager",
+      "Drew Moghanaki",
+      "Charles B Simone",
+      "Ella A Kazerooni",
+      "Eric M Hart",
+      "David T Cooke",
+      "Jeffrey B Velotta",
+      "Betty C Tong",
+      "Hari B Keshava",
+      "Cherie P Erkmen",
+      "Chi-Fu J Yang",
+      "Elliot L Servais"
+    ],
+    "journal": "The Annals of thoracic surgery",
+    "year": 2027,
+    "doi": "10.1016/j.athoracsur.2025.11.005",
+    "mesh_terms": [],
+    "normalized_bridge": {
+      "genes": [
+        "MET",
+        "AR"
+      ],
+      "diseases": [
+        "lung cancer"
+      ],
+      "processes": [],
+      "pathways": [],
+      "keywords": []
+    }
+  },
+  {
+    "pmid": "41342823",
+    "title": "Occupational hazards in cardiac electrophysiology: Insights from an HRS member survey.",
+    "abstract": "BACKGROUND: Cardiac electrophysiologists and electrophysiology (EP) laboratory professionals face underexplored occupational hazards, including direct and indirect effects of radiation exposure, orthopedic strain, and pregnancy-related concerns. Despite advances in radiation-reduction strategies, cumulative exposure continues to merit attention. OBJECTIVE: This study aimed to better understand these occupational risks. METHODS: A 20-question global (multiple-choice and open-ended) survey was distributed to Heart Rhythm Society members, including EP physicians and nonphysician members (nurses, technologists, allied professionals, and clinical specialists). The survey collected data on health risks, including pregnancy-related challenges. RESULTS: Of 30,663 contacted, 1336 (4.4 %) responded, including 974 physicians (72.9%), 299 nonphysicians (22.4%), and 63 clinical specialists (4.7%). Respondents included 413 women (30.9%), 910 men (68.1%), 3 nonbinary (0.22%), and 10 preferring not to disclose (0.7%). Malignancies were reported by 97 (7.8%), including various solid tumors in 29 (29.9%), thyroid cancer in 15 (15.5%), and breast cancer in 11 (11.3%). Among 242 women who had been pregnant (63.5%), 121 (50%) reported complications, including miscarriage in 64 (27.1%), in vitro fertilization in 35 (14.8%), hypertensive disorders of pregnancy in 21 (8.9%), and fetal growth problems/preterm labor in 23 (9.8%). Premature cataracts (<50 years) were reported by 46 (3.7%). Orthopedic injuries were reported by 481 (41%); 325 (67.6%) required physical therapy or exercise, and 109 (22.7%) had surgery. CONCLUSION: EP professionals reported notable health challenges, highlighting the need for greater awareness, preventive strategies, policies, and further research to enhance workplace safety in the EP laboratory.",
+    "authors": [
+      "Kamala P Tamirisa",
+      "Sana M Al-Khatib",
+      "Juan Carlos Zerpa Acosta",
+      "Kenneth A Ellenbogen",
+      "Sabine Ernst",
+      "Tara Parham Graham",
+      "Melanie A Gunawardene",
+      "Jodie Hurwitz",
+      "Dhanunjaya Lakkireddy",
+      "Prashanthan Sanders",
+      "Andrea M Russo"
+    ],
+    "journal": "Heart rhythm",
+    "year": 2027,
+    "doi": "10.1016/j.hrthm.2025.10.001",
+    "mesh_terms": [],
+    "normalized_bridge": {
+      "genes": [
+        "RET",
+        "MET",
+        "AR"
+      ],
+      "diseases": [
+        "breast cancer"
+      ],
+      "processes": [],
+      "pathways": [],
+      "keywords": []
+    }
+  },
+  {
+    "pmid": "41582518",
+    "title": "",
+    "abstract": " breast cancer BRCA1 Glioblastoma (GBM) is the most common primary central nervous system tumor with a dismal BRCA1 prognosis and limited treatment options. Recent success utilizing immunotherapies for treating other solid tumors have been largely unsuccessful in GBM. One of the primary mechanisms of GBM immunotherapeutic resistance is because of excessive infiltration of myeloid cells that create an immunosuppressive tumor microenvironment (TME). Among these infiltrating myeloid cells, tumor-associated macrophages (TAMs), comprise a substantial portion of the TME and are associated with poor prognosis in GBM patients. Researchers have only recently begun to dissect the dynamics and complexity of TAMs. However, reliable and reproducible translational methods for generating GBM TAMs ",
+    "authors": [
+      "Matthew Nazzaro",
+      "Elaine R Mardis",
+      "Mykyta Artomov",
+      "Ella Juenger",
+      "Justin Lyberger",
+      "Mark Damante",
+      "Gregory Behbehani",
+      "Susobhan Sarkar",
+      "Prajwal Rajappa"
+    ],
+    "journal": "Oncoimmunology",
+    "year": 2026,
+    "doi": "10.1080/2162402X.2025.2610562",
+    "mesh_terms": [
+      "Glioblastoma",
+      "Animals",
+      "Mice",
+      "Tumor Microenvironment",
+      "Tumor-Associated Macrophages",
+      "Brain Neoplasms",
+      "Humans",
+      "Phenotype",
+      "Macrophages",
+      "Mice, Inbred C57BL",
+      "Cell Line, Tumor",
+      "Disease Models, Animal"
+    ],
+    "normalized_bridge": {
+      "genes": [
+        "BRCA1",
+        "MET",
+        "ATM",
+        "AR",
+        "GLIOMA"
+      ],
+      "diseases": [
+        "disease models, animal",
+        "cell line, tumor",
+        "brain neoplasms",
+        "tumor microenvironment",
+        "tumor-associated macrophages",
+        "glioblastoma"
+      ],
+      "processes": [
+        "translation"
+      ],
+      "pathways": [],
+      "keywords": [
+        "Glioblastoma",
+        "Animals",
+        "Mice",
+        "Tumor Microenvironment",
+        "Tumor-Associated Macrophages",
+        "Brain Neoplasms",
+        "Humans",
+        "Phenotype",
+        "Macrophages",
+        "Mice, Inbred C57BL",
+        "Cell Line, Tumor",
+        "Disease Models, Animal"
+      ]
+    }
+  },
+  {
+    "pmid": "41572837",
+    "title": "Mucin-degrading gut bacteria: context-dependent roles in intestinal homeostasis and disease.",
+    "abstract": "",
+    "authors": [
+      "Eunike Tiffany",
+      "Kyoung Su Kim",
+      "Panida Sittipo",
+      "Dong-Woo Lee",
+      "Yun Kyung Lee"
+    ],
+    "journal": "Gut microbes",
+    "year": 2026,
+    "doi": "10.1080/19490976.2026.2614054",
+    "mesh_terms": [
+      "Gastrointestinal Microbiome",
+      "Humans",
+      "Homeostasis",
+      "Mucins",
+      "Animals",
+      "Bacteria",
+      "Intestinal Mucosa",
+      "Intestines",
+      "Akkermansia"
+    ],
+    "normalized_bridge": {
+      "genes": [],
+      "diseases": [],
+      "processes": [],
+      "pathways": [],
+      "keywords": [
+        "Gastrointestinal Microbiome",
+        "Humans",
+        "Homeostasis",
+        "Mucins",
+        "Animals",
+        "Bacteria",
+        "Intestinal Mucosa",
+        "Intestines",
+        "Akkermansia"
+      ]
+    }
+  },
+  {
+    "pmid": "41568550",
+    "title": "Effects of estradiol, tamoxifen, and raloxifene on human temporal lobe cortex astroglial cell spreading.",
+    "abstract": "BACKGROUND: Astrocytes, once regarded as passive support cells, are recognized as active regulators of synaptic organization and neuronal integration. Through extension or retraction of their processes, astrocytes influence synapse formation and elimination. Astrocytes express estrogen receptors, and animal studies have shown that estradiol modifies astrocytic morphology in relation to synaptic density. OBJECTIVE: To examine the effects of estradiol and two clinically available selective estrogen receptor modulators (SERMs), tamoxifen, and raloxifene on astrocyte processes in human brain tissue. METHODS: Human temporal lobe cortical slices were incubated for 60 min with estradiol (10 nM), tamoxifen (1.0 µM), or raloxifene (1.0 µM), and the results were compared with untreated control slices. Astrocytes were visualized by immunostaining for the glial cytoskeletal marker glial fibrillary acidic protein (GFAP). Light microscopy image analysis was used to quantify astrocytic process thickness and branching, using Neurolucida® software. RESULTS: Control slices exhibited astrocytic branch extension and thinning during the incubation period. Similar morphological changes were observed in the tamoxifen-treated slices. In contrast, raloxifene treatment was associated with a significant reduction in astrocyte branching and thinning compared with controls ( CONCLUSIONS: Estradiol, tamoxifen, and raloxifene - widely used hormonal agents - were associated with distinct effects on astrocyte morphology in human cortical tissue. These findings support a role for estrogen receptor modulation in astroglial structural regulation and suggest a potential cellular mechanism contributing to central nervous system symptoms reported in clinical settings.",
+    "authors": [
+      "Ivaldo Silva",
+      "Frederick Nicholas Naftolin",
+      "Vinicius Oliveira Santana",
+      "Anne Williamson",
+      "Ahmed Fadiel",
+      "Dennis Spencer",
+      "Howard J Li"
+    ],
+    "journal": "Gynecological endocrinology : the official journal of the International Society of Gynecological Endocrinology",
+    "year": 2026,
+    "doi": "10.1080/09513590.2026.2618881",
+    "mesh_terms": [
+      "Humans",
+      "Tamoxifen",
+      "Raloxifene Hydrochloride",
+      "Astrocytes",
+      "Estradiol",
+      "Selective Estrogen Receptor Modulators",
+      "Temporal Lobe",
+      "Female",
+      "Glial Fibrillary Acidic Protein",
+      "Middle Aged",
+      "Aged",
+      "Adult"
+    ],
+    "normalized_bridge": {
+      "genes": [
+        "GFAP",
+        "ATM",
+        "AR",
+        "RET",
+        "MET"
+      ],
+      "diseases": [],
+      "processes": [],
+      "pathways": [],
+      "keywords": [
+        "Humans",
+        "Tamoxifen",
+        "Raloxifene Hydrochloride",
+        "Astrocytes",
+        "Estradiol",
+        "Selective Estrogen Receptor Modulators",
+        "Temporal Lobe",
+        "Female",
+        "Glial Fibrillary Acidic Protein",
+        "Middle Aged",
+        "Aged",
+        "Adult"
+      ]
+    }
+  },
+  {
+    "pmid": "41560593",
+    "title": "Killing cancer takes guts: lessons learned from the manipulation of gut microbiome and immunotherapy for the future of urothelial carcinoma.",
+    "abstract": "Urothelial carcinoma (UC) remains a common cancer with significant morbidity and mortality worldwide. Immune checkpoint inhibitors (ICIs) have helped revolutionize the treatment of UC, and there is growing evidence suggesting the crucial role of the gut microbiome in immune system function influences immunotherapy outcomes in this disease. Herein, we review the preclinical basis for how manipulation of the gut microbiome may alter the efficacy of immunotherapy for patients with cancer, highlight interventions optimizing gut microbiome diversity currently in use, review recent and ongoing clinical trials supporting the role of the gut microbiome in improving immunotherapy outcomes, and discuss clinical implications to improve outcomes for UC patients with immunotherapy in the real world. There is growing evidence that suggests that specific gut microbiome compositions significantly modulate the host immune system and response to ICIs. Early studies have shown that certain microbial taxa enhance antitumor immunity by influencing T cell priming, dendritic cell activation, and cytokine production. Fecal microbiota transplantation (FMT), probiotic supplementation, and dietary modulation have emerged as promising methods to alter microbiomes to improve immunotherapy outcomes. Taxa from positive immunotherapy responders across a variety of cancers demonstrate beneficial effects when transplanted into both treatment-naive or prior nonresponders. Increasing evidence suggests that the gut microbiome plays a crucial role in cancer care, particularly when patients are treated with immunotherapy. Future studies are needed to better understand the underlying mechanisms. While some studies are currently underway to explore gut manipulation for patients with UC, more studies are needed to investigate the potential to convert nonresponders into responders through microbiome manipulation.",
+    "authors": [
+      "Nihaal Reddy",
+      "Kire Lau",
+      "Jacob Naman",
+      "Kevin Lu",
+      "Erin McGillivary",
+      "Amirali Salmasi",
+      "Michael Liss",
+      "Tyler Stewart"
+    ],
+    "journal": "Oncoimmunology",
+    "year": 2026,
+    "doi": "10.1080/2162402X.2025.2611458",
+    "mesh_terms": [
+      "Humans",
+      "Gastrointestinal Microbiome",
+      "Immunotherapy",
+      "Immune Checkpoint Inhibitors",
+      "Fecal Microbiota Transplantation",
+      "Animals",
+      "Probiotics",
+      "Carcinoma, Transitional Cell",
+      "Urinary Bladder Neoplasms"
+    ],
+    "normalized_bridge": {
+      "genes": [
+        "MET",
+        "ATM",
+        "AR"
+      ],
+      "diseases": [
+        "carcinoma, transitional cell",
+        "urinary bladder neoplasms"
+      ],
+      "processes": [
+        "cytokine"
+      ],
+      "pathways": [],
+      "keywords": [
+        "Humans",
+        "Gastrointestinal Microbiome",
+        "Immunotherapy",
+        "Immune Checkpoint Inhibitors",
+        "Fecal Microbiota Transplantation",
+        "Animals",
+        "Probiotics",
+        "Carcinoma, Transitional Cell",
+        "Urinary Bladder Neoplasms"
+      ]
+    }
+  },
+  {
+    "pmid": "41552974",
+    "title": "Gut microbiome remodeling induced by microplastic exposure in humans.",
+    "abstract": "The impact of microplastics (MPs) on the diversity and composition of the gut microbiome has been extensively documented in animal studies, but evidence in humans remains limited. Recognizing the potential differences in MP effects between animal and human gut microbiomes, this review synthesizes current evidence concerning their impact on the human gut microbiota. Furthermore, the potential links between microplastic-induced dysbiosis and the pathogenesis of human diseases were analyzed. Cross-sectional studies have been conducted to explore microplastic exposures (such as in humans who consume hot foods served in disposable plastic tableware) and their associations with gut microbiome functionalities in infants, preschool children and adults. Exposure to MPs increased the abundance of Dethiosulfovibrionaceae, Enterobacteriaceae, Moraxellaceae, Actinomycetota, Pseudomonadota, and ",
+    "authors": [
+      "Xin-Yue Yang",
+      "Zhong-Wei Zhang",
+      "Guang-Deng Chen",
+      "Shu Yuan"
+    ],
+    "journal": "Gut microbes",
+    "year": 2026,
+    "doi": "10.1080/19490976.2026.2617696",
+    "mesh_terms": [
+      "Humans",
+      "Gastrointestinal Microbiome",
+      "Microplastics",
+      "Bacteria",
+      "Dysbiosis",
+      "Animals"
+    ],
+    "normalized_bridge": {
+      "genes": [
+        "AR",
+        "MYC"
+      ],
+      "diseases": [],
+      "processes": [],
+      "pathways": [],
+      "keywords": [
+        "Humans",
+        "Gastrointestinal Microbiome",
+        "Microplastics",
+        "Bacteria",
+        "Dysbiosis",
+        "Animals"
+      ]
+    }
+  },
+  {
+    "pmid": "41548123",
+    "title": "NK cell-mediated tumor cell killing by bispecific innate cell engagers induces ADCC-mediated activation of primary human dendritic cells.",
+    "abstract": "Bispecific antibodies are used for the treatment of hematological malignancies as well as solid tumors. One of their main effector mechanisms is the recruitment of effector cells such as CD8",
+    "authors": [
+      "Lukas Heger",
+      "Tomasz Kaszubowski",
+      "Lukas Amon",
+      "Christian H K Lehmann",
+      "Susanne Wingert",
+      "José Medina-Echeverz",
+      "Joachim Koch",
+      "Holger Hackstein",
+      "Ariawan Purbojo",
+      "Arndt Hartmann",
+      "Christoph Alexiou",
+      "Robert Cesnjevar",
+      "Jens Pahl",
+      "Diana Dudziak"
+    ],
+    "journal": "Oncoimmunology",
+    "year": 2026,
+    "doi": "10.1080/2162402X.2026.2613561",
+    "mesh_terms": [
+      "Humans",
+      "Dendritic Cells",
+      "Killer Cells, Natural",
+      "Antibodies, Bispecific",
+      "Antibody-Dependent Cell Cytotoxicity",
+      "Immunity, Innate",
+      "Cell Line, Tumor",
+      "Neoplasms",
+      "Tumor Microenvironment",
+      "Cytokines",
+      "B7-H1 Antigen"
+    ],
+    "normalized_bridge": {
+      "genes": [
+        "CD16A",
+        "DC2",
+        "AFM24",
+        "ADCC",
+        "AR",
+        "CDC1",
+        "EGFR",
+        "ATM",
+        "DC3"
+      ],
+      "diseases": [
+        "cancer",
+        "tumor microenvironment",
+        "cell line, tumor"
+      ],
+      "processes": [],
+      "pathways": [],
+      "keywords": [
+        "Humans",
+        "Dendritic Cells",
+        "Killer Cells, Natural",
+        "Antibodies, Bispecific",
+        "Antibody-Dependent Cell Cytotoxicity",
+        "Immunity, Innate",
+        "Cell Line, Tumor",
+        "Neoplasms",
+        "Tumor Microenvironment",
+        "Cytokines",
+        "B7-H1 Antigen"
+      ]
+    }
+  }
+]

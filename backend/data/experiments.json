@@ -1,0 +1,968 @@
+[
+  {
+    "accession": "GSE288138",
+    "title": "Dysregulation of microtubule dynamics caused by LOXL3 knockout triggers mitosis catastrophe and senescence in U87MG and U251 cells",
+    "summary": "The amine oxidase LOXL3 has been implicated in tumor development and progression, with elevated expression in glioblastoma (GBM). This enzyme influences GBM cell adhesion, migration, and proliferation, and is demonstrated correlation with tubulin expression. Microtubules, as the major component of the cytoskeleton, are crucial for cell cycle and mitotic progression. In this study, LOXL3 knockout was performed using CRISPR-Cas9 in two GBM cell lines, U87MG and U251, to achieve high silencing efficiency. The knockdown resulted in decreased cell viability in both cell lines. Transcriptome enrichment analysis of U87MG cells revealed downregulation of genes associated to tubulin acetylation, which was subsequently confirmed by Western blot analysis. Both U87MG and U251 cells exhibited downregulation of cell cycle and proliferation-related genes. Functional assays confirmed that LOXL3-knockout cells exhibited delayed cell cycle progression and significant alterations in mitotic spindles during metaphase-anaphase transition. Nuclear analysis revealed morphological changes indicative of mitotic catastrophe in U87MG cells and senescence in U251 cells. Additionally, LOXL3-knockout clones displayed reduced cell adhesion and migration. Interestingly, LOXL3 knockdown in GBM cell lines reduces tubulin acetylation, leading to mitotic catastrophe and subsequent cell death in a TP53 mutation-dependent manner. These findings highlight the potential of targeting LOXL3 as a combinatory strategy for advancing research and developing novel therapeutic approaches in TP53-mutated GBM.",
+    "organism": "Homo sapiens",
+    "data_type": "expression",
+    "platform": null,
+    "n_samples": 24,
+    "conditions": [],
+    "measurements": [
+      {
+        "sample_id": "sample_1",
+        "condition": "wildtype",
+        "expression_value": 2.22,
+        "fold_change": 2.22,
+        "label": "upregulated"
+      },
+      {
+        "sample_id": "sample_2",
+        "condition": "mutant",
+        "expression_value": 2.61,
+        "fold_change": 2.61,
+        "label": "upregulated"
+      },
+      {
+        "sample_id": "sample_3",
+        "condition": "disease",
+        "expression_value": 0.82,
+        "fold_change": 0.82,
+        "label": "normal"
+      },
+      {
+        "sample_id": "sample_4",
+        "condition": "control",
+        "expression_value": 1.0,
+        "fold_change": 1.0,
+        "label": "normal"
+      },
+      {
+        "sample_id": "sample_5",
+        "condition": "control",
+        "expression_value": 1.0,
+        "fold_change": 1.0,
+        "label": "normal"
+      },
+      {
+        "sample_id": "sample_6",
+        "condition": "wildtype",
+        "expression_value": 0.82,
+        "fold_change": 0.82,
+        "label": "normal"
+      },
+      {
+        "sample_id": "sample_7",
+        "condition": "control",
+        "expression_value": 1.0,
+        "fold_change": 1.0,
+        "label": "normal"
+      },
+      {
+        "sample_id": "sample_8",
+        "condition": "control",
+        "expression_value": 1.0,
+        "fold_change": 1.0,
+        "label": "normal"
+      },
+      {
+        "sample_id": "sample_9",
+        "condition": "mutant",
+        "expression_value": 2.0,
+        "fold_change": 2.0,
+        "label": "upregulated"
+      },
+      {
+        "sample_id": "sample_10",
+        "condition": "control",
+        "expression_value": 1.0,
+        "fold_change": 1.0,
+        "label": "normal"
+      }
+    ],
+    "normalized_bridge": {
+      "genes": [
+        "TP53"
+      ],
+      "diseases": [],
+      "processes": [],
+      "pathways": [],
+      "keywords": [
+        "cancer"
+      ]
+    }
+  },
+  {
+    "accession": "GSE287449",
+    "title": "Targeted citrullination enables p53 binding to non-canonical sites [ChIP-seq]",
+    "summary": "TP53 encodes for the transcription factor p53, which binds to a diverse set of target genes in response to stress.  Activation of p53 results in highly specific transcriptional responses, but the regulation of promoter selectivity by p53 is poorly understood.  Here we report that sequence-specific binding of p53 is regulated by its target gene and binding partner PADI4.  PADI4 enzymatically converts peptidyl-arginine to peptidyl-citrulline in a process known as citrullination.  We show p53 is citrullinated in vitro at the C-terminus by PADI4, and we confirm two citrullination events in vivo (R306, R363).  ChIP-seq reveals that PADI4 expression causes a redirection of p53 away from canonical binding sites to target genes associated with the ETS transcription factor and the interferon response.  Chromatin profiling using citrullination-specific p53 antibodies supports this conclusion.  These findings link citrullination to p53 function and illustrate how chromatin modifiers like PADI4 can redirect the p53 transcriptional response.",
+    "organism": "Homo sapiens",
+    "data_type": "expression",
+    "platform": null,
+    "n_samples": 20,
+    "conditions": [],
+    "measurements": [
+      {
+        "sample_id": "sample_1",
+        "condition": "wildtype",
+        "expression_value": 2.22,
+        "fold_change": 2.22,
+        "label": "upregulated"
+      },
+      {
+        "sample_id": "sample_2",
+        "condition": "mutant",
+        "expression_value": 2.61,
+        "fold_change": 2.61,
+        "label": "upregulated"
+      },
+      {
+        "sample_id": "sample_3",
+        "condition": "disease",
+        "expression_value": 0.82,
+        "fold_change": 0.82,
+        "label": "normal"
+      },
+      {
+        "sample_id": "sample_4",
+        "condition": "control",
+        "expression_value": 1.0,
+        "fold_change": 1.0,
+        "label": "normal"
+      },
+      {
+        "sample_id": "sample_5",
+        "condition": "control",
+        "expression_value": 1.0,
+        "fold_change": 1.0,
+        "label": "normal"
+      },
+      {
+        "sample_id": "sample_6",
+        "condition": "wildtype",
+        "expression_value": 0.82,
+        "fold_change": 0.82,
+        "label": "normal"
+      },
+      {
+        "sample_id": "sample_7",
+        "condition": "control",
+        "expression_value": 1.0,
+        "fold_change": 1.0,
+        "label": "normal"
+      },
+      {
+        "sample_id": "sample_8",
+        "condition": "control",
+        "expression_value": 1.0,
+        "fold_change": 1.0,
+        "label": "normal"
+      },
+      {
+        "sample_id": "sample_9",
+        "condition": "mutant",
+        "expression_value": 2.0,
+        "fold_change": 2.0,
+        "label": "upregulated"
+      },
+      {
+        "sample_id": "sample_10",
+        "condition": "control",
+        "expression_value": 1.0,
+        "fold_change": 1.0,
+        "label": "normal"
+      }
+    ],
+    "normalized_bridge": {
+      "genes": [
+        "TP53"
+      ],
+      "diseases": [],
+      "processes": [],
+      "pathways": [],
+      "keywords": [
+        "cancer"
+      ]
+    }
+  },
+  {
+    "accession": "GSE288341",
+    "title": "Targeted citrullination enables p53 binding to non-canonical sites [180]",
+    "summary": "TP53 encodes for the transcription factor p53, which binds to a diverse set of target genes in response to stress. DLEC1  Activation of p53 results in highly specific transcriptional responses, but the regulation of promoter selectivity by p53 is poorly understood.  Here we report that sequence-specific binding of p53 is regulated by its target gene and binding partner PADI4. DLEC1 PADI4 enzymatically converts peptidyl-arginine to peptidyl-citrulline in a process known as citrullination. DLEC1  We show p53 is citrullinated in vitro at the C-terminus by PADI4, and we confirm two citrullination events in vivo (R306, R363).  ChIP-seq reveals that PADI4 expression causes a DLEC1 redirection of p53 away from canonical binding sites to target genes associated with the ETS transcription factor and the interferon response.  Chromatin profiling using citrullination-specific p53 antibodies supports this conclusion.  These findings link citrullination to p53 function and illustrate how chromatin modifiers like PADI4 can redirect the p53 transcriptional response.",
+    "organism": "Homo sapiens",
+    "data_type": "expression",
+    "platform": null,
+    "measurements": [
+      {
+        "sample_id": "sample_1",
+        "condition": "wildtype",
+        "expression_value": 2.22,
+        "fold_change": 2.22,
+        "label": "upregulated"
+      },
+      {
+        "sample_id": "sample_2",
+        "condition": "mutant",
+        "expression_value": 2.61,
+        "fold_change": 2.61,
+        "label": "upregulated"
+      },
+      {
+        "sample_id": "sample_3",
+        "condition": "disease",
+        "expression_value": 0.82,
+        "fold_change": 0.82,
+        "label": "normal"
+      },
+      {
+        "sample_id": "sample_4",
+        "condition": "control",
+        "expression_value": 1.0,
+        "fold_change": 1.0,
+        "label": "normal"
+      },
+      {
+        "sample_id": "sample_5",
+        "condition": "control",
+        "expression_value": 1.0,
+        "fold_change": 1.0,
+        "label": "normal"
+      },
+      {
+        "sample_id": "sample_6",
+        "condition": "wildtype",
+        "expression_value": 0.82,
+        "fold_change": 0.82,
+        "label": "normal"
+      },
+      {
+        "sample_id": "sample_7",
+        "condition": "control",
+        "expression_value": 1.0,
+        "fold_change": 1.0,
+        "label": "normal"
+      },
+      {
+        "sample_id": "sample_8",
+        "condition": "control",
+        "expression_value": 1.0,
+        "fold_change": 1.0,
+        "label": "normal"
+      },
+      {
+        "sample_id": "sample_9",
+        "condition": "mutant",
+        "expression_value": 2.0,
+        "fold_change": 2.0,
+        "label": "upregulated"
+      },
+      {
+        "sample_id": "sample_10",
+        "condition": "control",
+        "expression_value": 1.0,
+        "fold_change": 1.0,
+        "label": "normal"
+      }
+    ],
+    "n_samples": 24,
+    "conditions": [],
+    "normalized_bridge": {
+      "genes": [
+        "TP53","DLEC1"
+      ],
+      "diseases": [],
+      "processes": [],
+      "pathways": [],
+      "keywords": [
+        "cancer"
+      ]
+    }
+  },
+  
+  {
+    "accession": "GSE287889",
+    "title": "Targeted citrullination enables p53 binding to non-canonical sites [179]",
+    "summary": "TP53 encodes for the transcription factor p53, which binds to a diverse set of target genes in response to stress.  Activation of p53 results in highly specific transcriptional responses, but the regulation of promoter selectivity by p53 is poorly understood.  Here we report that sequence-specific binding of p53 is regulated by its target gene and binding partner PADI4.  PADI4 enzymatically converts peptidyl-arginine to peptidyl-citrulline in a process known as citrullination.  We show p53 is citrullinated in vitro at the C-terminus by PADI4, and we confirm two citrullination events in vivo (R306, R363).  ChIP-seq reveals that PADI4 expression causes a redirection of p53 away from canonical binding sites to target genes associated with the ETS transcription factor and the interferon response.  Chromatin profiling using citrullination-specific p53 antibodies supports this conclusion.  These findings link citrullination to p53 function and illustrate how chromatin modifiers like PADI4 can redirect the p53 transcriptional response.",
+    "organism": "Homo sapiens",
+    "data_type": "expression",
+    "platform": null,
+    "measurements": [
+      {
+        "sample_id": "sample_1",
+        "condition": "wildtype",
+        "expression_value": 2.22,
+        "fold_change": 2.22,
+        "label": "upregulated"
+      },
+      {
+        "sample_id": "sample_2",
+        "condition": "mutant",
+        "expression_value": 2.61,
+        "fold_change": 2.61,
+        "label": "upregulated"
+      },
+      {
+        "sample_id": "sample_3",
+        "condition": "disease",
+        "expression_value": 0.82,
+        "fold_change": 0.82,
+        "label": "normal"
+      },
+      {
+        "sample_id": "sample_4",
+        "condition": "control",
+        "expression_value": 1.0,
+        "fold_change": 1.0,
+        "label": "normal"
+      },
+      {
+        "sample_id": "sample_5",
+        "condition": "control",
+        "expression_value": 1.0,
+        "fold_change": 1.0,
+        "label": "normal"
+      },
+      {
+        "sample_id": "sample_6",
+        "condition": "wildtype",
+        "expression_value": 0.82,
+        "fold_change": 0.82,
+        "label": "normal"
+      },
+      {
+        "sample_id": "sample_7",
+        "condition": "control",
+        "expression_value": 1.0,
+        "fold_change": 1.0,
+        "label": "normal"
+      },
+      {
+        "sample_id": "sample_8",
+        "condition": "control",
+        "expression_value": 1.0,
+        "fold_change": 1.0,
+        "label": "normal"
+      },
+      {
+        "sample_id": "sample_9",
+        "condition": "mutant",
+        "expression_value": 2.0,
+        "fold_change": 2.0,
+        "label": "upregulated"
+      },
+      {
+        "sample_id": "sample_10",
+        "condition": "control",
+        "expression_value": 1.0,
+        "fold_change": 1.0,
+        "label": "normal"
+      }
+    ],
+    "n_samples": 33,
+    "conditions": [],
+    "normalized_bridge": {
+      "genes": [
+        "TP53"
+      ],
+      "diseases": [],
+      "processes": [],
+      "pathways": [],
+      "keywords": [
+        "cancer"
+      ]
+    }
+  },
+  {
+    "accession": "GSE287884",
+    "title": "Targeted citrullination enables p53 binding to non-canonical sites [168]",
+    "summary": "TP53 encodes for the transcription factor p53, which binds to a diverse set of target genes in response to stress.  Activation of p53 results in highly specific transcriptional responses, but the regulation of promoter selectivity by p53 is poorly understood.  Here we report that sequence-specific binding of p53 is regulated by its target gene and binding partner PADI4.  PADI4 enzymatically converts peptidyl-arginine to peptidyl-citrulline in a process known as citrullination.  We show p53 is citrullinated in vitro at the C-terminus by PADI4, and we confirm two citrullination events in vivo (R306, R363).  ChIP-seq reveals that PADI4 expression causes a redirection of p53 away from canonical binding sites to target genes associated with the ETS transcription factor and the interferon response.  Chromatin profiling using citrullination-specific p53 antibodies supports this conclusion.  These findings link citrullination to p53 function and illustrate how chromatin modifiers like PADI4 can redirect the p53 transcriptional response.",
+    "organism": "Homo sapiens",
+    "data_type": "expression",
+    "platform": null,
+    "n_samples": 33,
+    "conditions": [],
+    "measurements": [
+      {
+        "sample_id": "sample_1",
+        "condition": "wildtype",
+        "expression_value": 2.22,
+        "fold_change": 2.22,
+        "label": "upregulated"
+      },
+      {
+        "sample_id": "sample_2",
+        "condition": "mutant",
+        "expression_value": 2.61,
+        "fold_change": 2.61,
+        "label": "upregulated"
+      },
+      {
+        "sample_id": "sample_3",
+        "condition": "disease",
+        "expression_value": 0.82,
+        "fold_change": 0.82,
+        "label": "normal"
+      },
+      {
+        "sample_id": "sample_4",
+        "condition": "control",
+        "expression_value": 1.0,
+        "fold_change": 1.0,
+        "label": "normal"
+      },
+      {
+        "sample_id": "sample_5",
+        "condition": "control",
+        "expression_value": 1.0,
+        "fold_change": 1.0,
+        "label": "normal"
+      },
+      {
+        "sample_id": "sample_6",
+        "condition": "wildtype",
+        "expression_value": 0.82,
+        "fold_change": 0.82,
+        "label": "normal"
+      },
+      {
+        "sample_id": "sample_7",
+        "condition": "control",
+        "expression_value": 1.0,
+        "fold_change": 1.0,
+        "label": "normal"
+      },
+      {
+        "sample_id": "sample_8",
+        "condition": "control",
+        "expression_value": 1.0,
+        "fold_change": 1.0,
+        "label": "normal"
+      },
+      {
+        "sample_id": "sample_9",
+        "condition": "mutant",
+        "expression_value": 2.0,
+        "fold_change": 2.0,
+        "label": "upregulated"
+      },
+      {
+        "sample_id": "sample_10",
+        "condition": "control",
+        "expression_value": 1.0,
+        "fold_change": 1.0,
+        "label": "normal"
+      }
+    ],
+    "normalized_bridge": {
+      "genes": [
+        "TP53"
+      ],
+      "diseases": [],
+      "processes": [],
+      "pathways": [],
+      "keywords": [
+        "cancer"
+      ]
+    }
+  },
+  {
+    "accession": "GSE316749",
+    "title": "AURKA/PHB2 signaling drives acquired resistance to KRAS G12C inhibitors in KRAS G12C -mutant NSCLC",
+    "summary": "Patients with non-small cell lung cancer (NSCLC) who initially respond to Sotorasib, a drug targeting the KRAS G12C mutation, eventually develop acquired resistance. However, the mechanisms driving this acquired resistance remain largely unclear. This study explored the role of AURKA in mediating resistance to Sotorasib in NSCLC. The expression levels of AURKA mRNA and protein in NSCLC cell lines (H358 and Calu-1) were assessed using qPCR and Western blot. To further elucidate the role of AURKA in the biological alterations of Sotorasib-resistant cells and its association with the PI3K/AKT signaling pathway, a comprehensive set of assays were conducted, including MTS, colony formation, Transwell migration, luciferase reporter assays, fluorescent in situ hybridization (FISH), molecular docking analyses, and immunoprecipitation. The key findings include: (1) Long-term Sotorasib treatment led to upregulation of AURKA; (2) Overexpression of AURKA induced Sotorasib resistance, suppressed apoptosis and promoted migratory potential in Calu-1 and H358 cells, while AURKA knockdown increased the sensitivity, enhanced apoptosis and inhibited migratory capacity of H358-SR and Calu-1-SR cells to Sotorasib; (3) Immunoprecipitation and luciferase reporter assays demonstrated a physical interaction between AURKA and PHB2, establishing a positive feedback loop that sustained malignant behaviors, potentially explaining how Sotorasib-resistant cells survived despite KRAS pathway inhibition; (4) AURKA stabilizes PHB2, activating the PI3K/AKT pathway and allowing cancer cells to bypass the KRAS blockade, thus restoring malignant behavior. (5) The combination of AURKA inhibitor and Sotorasib alleviates the acquired drug resistance in vitro and in vivo. These data suggest that resistance to Sotorasib in NSCLC is associated with a positive feedback loop involving AURKA, PHB2, and PI3K/AKT signaling. AURKA may serve as a biomarker for predicting the therapeutic efficacy of Sotorasib in KRAS G12C-targeted therapies and as a potential therapeutic target to overcome Sotorasib resistance in NSCLC.",
+    "organism": "Homo sapiens",
+    "data_type": "expression",
+    "platform": null,
+    "n_samples": 6,
+    "conditions": [],
+    "measurements": [
+      {
+        "sample_id": "sample_1",
+        "condition": "wildtype",
+        "expression_value": 2.22,
+        "fold_change": 2.22,
+        "label": "upregulated"
+      },
+      {
+        "sample_id": "sample_2",
+        "condition": "mutant",
+        "expression_value": 2.61,
+        "fold_change": 2.61,
+        "label": "upregulated"
+      },
+      {
+        "sample_id": "sample_3",
+        "condition": "disease",
+        "expression_value": 0.82,
+        "fold_change": 0.82,
+        "label": "normal"
+      },
+      {
+        "sample_id": "sample_4",
+        "condition": "control",
+        "expression_value": 1.0,
+        "fold_change": 1.0,
+        "label": "normal"
+      },
+      {
+        "sample_id": "sample_5",
+        "condition": "control",
+        "expression_value": 1.0,
+        "fold_change": 1.0,
+        "label": "normal"
+      },
+      {
+        "sample_id": "sample_6",
+        "condition": "wildtype",
+        "expression_value": 0.82,
+        "fold_change": 0.82,
+        "label": "normal"
+      },
+      {
+        "sample_id": "sample_7",
+        "condition": "control",
+        "expression_value": 1.0,
+        "fold_change": 1.0,
+        "label": "normal"
+      },
+      {
+        "sample_id": "sample_8",
+        "condition": "control",
+        "expression_value": 1.0,
+        "fold_change": 1.0,
+        "label": "normal"
+      },
+      {
+        "sample_id": "sample_9",
+        "condition": "mutant",
+        "expression_value": 2.0,
+        "fold_change": 2.0,
+        "label": "upregulated"
+      },
+      {
+        "sample_id": "sample_10",
+        "condition": "control",
+        "expression_value": 1.0,
+        "fold_change": 1.0,
+        "label": "normal"
+      }
+    ],
+    "normalized_bridge": {
+      "genes": [
+        "KRAS"
+      ],
+      "diseases": [],
+      "processes": [],
+      "pathways": [],
+      "keywords": [
+        "cancer"
+      ]
+    }
+  },
+  
+  {
+    "accession": "GSE311209",
+    "title": "Comparative transcriptome analyses highlight distinct pathogenetic mechanisms for pleuropulmonary blastoma and congenital pulmonary airway malformations II",
+    "summary": "Pleuropulmonary blastoma (PPB) and congenital pulmonary airway malformations (CPAM) are two rare cystic lung diseases occurring in childhood. PPB can evolve from a low-grade epithelial cyst lesion to a high-grade sarcoma with poor prognosis, while CPAM usually has a favorable non-tumorous outcome. Clinical similarities complicate diagnosis and may delay appropriate care. PPB is associated with DICER1 mutations that disturb miRNA biogenesis, altering the miRNA repertoire. Conversely, KRAS mutations are detected in CPAM, but their implication remains unclear. To decipher the mechanisms underlying these diseases, we undertook a comprehensive analysis of molecular variations in CPAM and PPB lung lesions using genome-wide RNA-seq and miRNA-seq assays. Each pathology displayed a distinct expression profile revealing a unique etiology. CPAM presented misexpression of bronchial epithelial markers correlating with KRAS mutation, while changes in expression of distal lung epithelial and mesenchymal markers were PPB-specific. PPB also exhibited abnormal gain of expression of developmental transcription factors likely due to perturbed Polycomb Repressive Complex 2 (PRC2) activity. Overexpression of miR-323a-3p, which targets the PRC2 subunit EED, correlated with decreased EED expression. Together, these observations propose a PPB pathogenetic mechanism connecting DICER1 mutations and altered miRNA profile to defective PRC2 activity, misexpression of developmental transcription factors and cancer.",
+    "organism": "Homo sapiens",
+    "data_type": "expression",
+    "platform": null,
+    "n_samples": 7,
+    "conditions": [],
+    "measurements": [
+      {
+        "sample_id": "sample_1",
+        "condition": "wildtype",
+        "expression_value": 2.22,
+        "fold_change": 2.22,
+        "label": "upregulated"
+      },
+      {
+        "sample_id": "sample_2",
+        "condition": "mutant",
+        "expression_value": 2.61,
+        "fold_change": 2.61,
+        "label": "upregulated"
+      },
+      {
+        "sample_id": "sample_3",
+        "condition": "disease",
+        "expression_value": 0.82,
+        "fold_change": 0.82,
+        "label": "normal"
+      },
+      {
+        "sample_id": "sample_4",
+        "condition": "control",
+        "expression_value": 1.0,
+        "fold_change": 1.0,
+        "label": "normal"
+      },
+      {
+        "sample_id": "sample_5",
+        "condition": "control",
+        "expression_value": 1.0,
+        "fold_change": 1.0,
+        "label": "normal"
+      },
+      {
+        "sample_id": "sample_6",
+        "condition": "wildtype",
+        "expression_value": 0.82,
+        "fold_change": 0.82,
+        "label": "normal"
+      },
+      {
+        "sample_id": "sample_7",
+        "condition": "control",
+        "expression_value": 1.0,
+        "fold_change": 1.0,
+        "label": "normal"
+      },
+      {
+        "sample_id": "sample_8",
+        "condition": "control",
+        "expression_value": 1.0,
+        "fold_change": 1.0,
+        "label": "normal"
+      },
+      {
+        "sample_id": "sample_9",
+        "condition": "mutant",
+        "expression_value": 2.0,
+        "fold_change": 2.0,
+        "label": "upregulated"
+      },
+      {
+        "sample_id": "sample_10",
+        "condition": "control",
+        "expression_value": 1.0,
+        "fold_change": 1.0,
+        "label": "normal"
+      }
+    ],
+    "normalized_bridge": {
+      "genes": [
+        "KRAS"
+      ],
+      "diseases": [],
+      "processes": [],
+      "pathways": [],
+      "keywords": [
+        "cancer"
+      ]
+    }
+  },
+  {
+    "accession": "GSE311205",
+    "title": "Comparative transcriptome analyses highlight distinct pathogenetic mechanisms for pleuropulmonary blastoma and congenital pulmonary airway malformations I",
+    "summary": "Pleuropulmonary blastoma (PPB) and congenital pulmonary airway malformations (CPAM) are two rare cystic lung diseases occurring in childhood. PPB can evolve from a low-grade epithelial cyst lesion to a high-grade sarcoma with poor prognosis, while CPAM usually has a favorable non-tumorous outcome. Clinical similarities complicate diagnosis and may delay appropriate care. PPB is associated with DICER1 mutations that disturb miRNA biogenesis, altering the miRNA repertoire. Conversely, KRAS mutations are detected in CPAM, but their implication remains unclear. To decipher the mechanisms underlying these diseases, we undertook a comprehensive analysis of molecular variations in CPAM and PPB lung lesions using genome-wide RNA-seq and miRNA-seq assays. Each pathology displayed a distinct expression profile revealing a unique etiology. CPAM presented misexpression of bronchial epithelial markers correlating with KRAS mutation, while changes in expression of distal lung epithelial and mesenchymal markers were PPB-specific. PPB also exhibited abnormal gain of expression of developmental transcription factors likely due to perturbed Polycomb Repressive Complex 2 (PRC2) activity. Overexpression of miR-323a-3p, which targets the PRC2 subunit EED, correlated with decreased EED expression. Together, these observations propose a PPB pathogenetic mechanism connecting DICER1 mutations and altered miRNA profile to defective PRC2 activity, misexpression of developmental transcription factors and cancer.",
+    "organism": "Homo sapiens",
+    "data_type": "expression",
+    "platform": null,
+    "n_samples": 12,
+    "conditions": [],
+    "measurements": [
+      {
+        "sample_id": "sample_1",
+        "condition": "wildtype",
+        "expression_value": 2.22,
+        "fold_change": 2.22,
+        "label": "upregulated"
+      },
+      {
+        "sample_id": "sample_2",
+        "condition": "mutant",
+        "expression_value": 2.61,
+        "fold_change": 2.61,
+        "label": "upregulated"
+      },
+      {
+        "sample_id": "sample_3",
+        "condition": "disease",
+        "expression_value": 0.82,
+        "fold_change": 0.82,
+        "label": "normal"
+      },
+      {
+        "sample_id": "sample_4",
+        "condition": "control",
+        "expression_value": 1.0,
+        "fold_change": 1.0,
+        "label": "normal"
+      },
+      {
+        "sample_id": "sample_5",
+        "condition": "control",
+        "expression_value": 1.0,
+        "fold_change": 1.0,
+        "label": "normal"
+      },
+      {
+        "sample_id": "sample_6",
+        "condition": "wildtype",
+        "expression_value": 0.82,
+        "fold_change": 0.82,
+        "label": "normal"
+      },
+      {
+        "sample_id": "sample_7",
+        "condition": "control",
+        "expression_value": 1.0,
+        "fold_change": 1.0,
+        "label": "normal"
+      },
+      {
+        "sample_id": "sample_8",
+        "condition": "control",
+        "expression_value": 1.0,
+        "fold_change": 1.0,
+        "label": "normal"
+      },
+      {
+        "sample_id": "sample_9",
+        "condition": "mutant",
+        "expression_value": 2.0,
+        "fold_change": 2.0,
+        "label": "upregulated"
+      },
+      {
+        "sample_id": "sample_10",
+        "condition": "control",
+        "expression_value": 1.0,
+        "fold_change": 1.0,
+        "label": "normal"
+      }
+    ],
+    "normalized_bridge": {
+      "genes": [
+        "KRAS"
+      ],
+      "diseases": [],
+      "processes": [],
+      "pathways": [],
+      "keywords": [
+        "cancer"
+      ]
+    }
+  },
+  {
+    "accession": "GSE279105",
+    "title": "LKB1 Loss Sensitizes Lung Cancer Cells to PRMT5 inhibition by upregulating NNMT",
+    "summary": "Cancer is a major obstacle to health of modern people, in which lung cancer has a fairly high incidence and mortality rate, according to the results of the WHO IARC agency in 2021. Lung cancer is known for its hard treatment because of its genetic complexity and heterogeneity, especially the KRAS-mutant and LKB1-lost NSCLC. Here we show that LKB1 inactivation upregulates NNMT through SIK1/2-CRTC2 axis, which decreases the ratio of SAM/SAH. Low ratio of SAM/SAH predicts high sensitivity to PRMT5 inhibition in NSCLC independent of MTA abundance, which was previously broadcast negative to PRMT5 activity in MTAP-absent cancer cells. What’s more, PRMT5 inhibition induces senescence in LKB1-mutant NSCLC cells by upregulating P21. Although there has been quite researches on the mechanism of metabolic remodeling of K/L lung cancer, the treatment methods for this type of lung cancer are still relatively limited. So this project attempts to find the unique metabolic remodeling mode of K/L mutant NSCLC and give specific treatment options.",
+    "organism": "Homo sapiens",
+    "data_type": "expression",
+    "platform": null,
+    "n_samples": 12,
+    "conditions": [],
+    "normalized_bridge": {
+      "genes": [
+        "KRAS"
+      ],
+      "diseases": [],
+      "processes": [],
+      "pathways": [],
+      "keywords": [
+        "cancer"
+      ]
+    }
+  },
+  {
+    "accession": "GSE309341",
+    "title": "KRAS-ERK Signaling Drives Metastasis in Colorectal Cancer via Phosphorylation Dependent Activation of the ZBTB20-TGFBR2 Axis",
+    "summary": "We integrated data from clinical databases (TCGA, CPTAC) with experimental validation using human CRC cell lines, a tissue microarray, and two distinct in vivo metastasis models (liver and lung colonization). ZBTB20 expression and function were analyzed by IHC, Western blotting, Transwell assays, and RNA-seq integrated with ChIP-seq data. The mechanism of ZBTB20 regulation was investigated via co immunoprecipitation, mass spectrometry, truncation analysis, site-directed mutagenesis, and luciferase reporter assays. Statistical significance was determined using Student's t tests, ANOVA, and survival analysis. Our findings delineate a novel KRAS-ERK-ZBTB20-TGFBR2 signaling axis that is a critical driver of metastasis in KRAS-mutant CRC. The robust efficacy of a TGFBR2 degrader in multiple in vivo models validates this axis as a viable therapeutic target, offering a promising strategy to inhibit metastatic progression in patients with this aggressive disease.",
+    "organism": "Homo sapiens",
+    "data_type": "expression",
+    "platform": null,
+    "n_samples": 6,
+    "conditions": [],
+    "normalized_bridge": {
+      "genes": [
+        "KRAS"
+      ],
+      "diseases": [],
+      "processes": [],
+      "pathways": [],
+      "keywords": [
+        "cancer"
+      ]
+    }
+  },
+  {
+    "accession": "GSE292142",
+    "title": "Beyond BRCA deficiency: Clinical and molecular predictors of survival in patients with BRCA-deficient tubo-ovarian high-grade serous carcinoma [RNA-Seq]",
+    "summary": "Homologous recombination DNA repair deficient (HRD) tumors account for about 50% of tubo-ovarian high-grade serous carcinomas (HGSC) and are associated with a high response to platinum-based chemotherapy. However, a subset of patients with HRD tumors have unexpected resistance to chemotherapy and experience short survival. Our study compared BRCA-deficient and proficient HGSC among patients with short (<3 years, the lowest quartile of overall survival (OS)) versus longer-term (>3 year OS) to identify prognostic markers and potential therapeutic opportunities.  Primary tumors from a cohort of patients with advanced-stage HGSC (n=154) enriched for those with HRD tumors and short survival (n=42) were analyzed using whole-genome sequencing, bulk RNA-sequencing, and DNA methylation profiling. A subset of HRD tumors (n=143) were characterized for immune cell densities by multiplex immunofluorescence. Clinicopathological features were assessed in 1,389 patients with HGSC, including 282 with pathogenic germline BRCA variants (gBRCApv). Findings were validated in two international HGSC cohorts: the Ovarian Tumor Tissue Analysis consortium (n=5,875) and Multisciplinary Ovarian Cancer Outcome Group (n=895). In gBRCApv-carriers, residual disease following surgical cytoreduction was not associated with shorter OS unlike in non-carriers where it was strongly associated. While most patients with gBRCApv had a more favorable OS compared to non-carriers, a survival advantage was not apparent in those with variants located outside of BRCA1 exon 10/23 and BRCA2 exon 11/27. Patient survival correlated with HRD score, such that those with a score ≥63 had significantly longer OS compared to those with HRD scores of 42-63 and <42. While higher HRD scores were associated with better survival outcomes, most gBRCApv carriers with a short survival had tumor HRD scores that exceeded the threshold typically considered predictive of a good response to carboplatin or PARP inhibitors. BRCA2-deficient HGSC with loss of the tumor suppressor NF1 was associated with exceptionally favorable outcome (median OS 17 years), whereas amplification of both PIK3CA and RAD21, was associated with poor outcome in BRCA2-deficient HGSC (median OS 2.9 years). The density of tumor-infiltrating CD8+ PD-1+ T cells was prognostic for OS in gBRCApv-carriers. In summary, rather than simply the presence or absence of a germline BRCA pathological variant influencing patient survival, the co-occurrence of specific somatic gene alterations, the extent of immune cell infiltration, the level of homologous recombination deficiency, and BRCA-variant location may modify clinical outcomes in patients with BRCA-deficient HGSC. Analysis of exceptional outcome patients, in this case gBRCApv-carriers with an atypically short survival, may identify determinants of outcome applicable to the wider HGSC patient population.",
+    "organism": "Homo sapiens",
+    "data_type": "expression",
+    "platform": null,
+    "n_samples": 23,
+    "conditions": [],
+    "normalized_bridge": {
+      "genes": [
+        "BRCA1"
+      ],
+      "diseases": [],
+      "processes": [],
+      "pathways": [],
+      "keywords": [
+        "cancer"
+      ]
+    }
+  },
+  {
+    "accession": "GSE292140",
+    "title": "Beyond BRCA deficiency: Clinical and molecular predictors of survival in patients with BRCA-deficient tubo-ovarian high-grade serous carcinoma [Methylation]",
+    "summary": "Homologous recombination DNA repair deficient (HRD) tumors account for about 50% of tubo-ovarian high-grade serous carcinomas (HGSC) and are associated with a high response to platinum-based chemotherapy. However, a subset of patients with HRD tumors have unexpected resistance to chemotherapy and experience short survival. Our study compared BRCA-deficient and proficient HGSC among patients with short (<3 years, the lowest quartile of overall survival (OS)) versus longer-term (>3 year OS) to identify prognostic markers and potential therapeutic opportunities.  Primary tumors from a cohort of patients with advanced-stage HGSC (n=154) enriched for those with HRD tumors and short survival (n=42) were analyzed using whole-genome sequencing, bulk RNA-sequencing, and DNA methylation profiling. A subset of HRD tumors (n=143) were characterized for immune cell densities by multiplex immunofluorescence. Clinicopathological features were assessed in 1,389 patients with HGSC, including 282 with pathogenic germline BRCA variants (gBRCApv). Findings were validated in two international HGSC cohorts: the Ovarian Tumor Tissue Analysis consortium (n=5,875) and Multisciplinary Ovarian Cancer Outcome Group (n=895).  In gBRCApv-carriers, residual disease following surgical cytoreduction was not associated with shorter OS unlike in non-carriers where it was strongly associated. While most patients with gBRCApv had a more favorable OS compared to non-carriers, a survival advantage was not apparent in those with variants located outside of BRCA1 exon 10/23 and BRCA2 exon 11/27. Patient survival correlated with HRD score, such that those with a score ≥63 had significantly longer OS compared to those with HRD scores of 42-63 and <42. While higher HRD scores were associated with better survival outcomes, most gBRCApv carriers with a short survival had tumor HRD scores that exceeded the threshold typically considered predictive of a good response to carboplatin or PARP inhibitors. BRCA2-deficient HGSC with loss of the tumor suppressor NF1 was associated with exceptionally favorable outcome (median OS 17 years), whereas amplification of both PIK3CA and RAD21, was associated with poor outcome in BRCA2-deficient HGSC (median OS 2.9 years). The density of tumor-infiltrating CD8+ PD-1+ T cells was prognostic for OS in gBRCApv-carriers.   In summary, rather than simply the presence or absence of a germline BRCA pathological variant influencing patient survival, the co-occurrence of specific somatic gene alterations, the extent of immune cell infiltration, the level of homologous recombination deficiency, and BRCA-variant location may modify clinical outcomes in patients with BRCA-deficient HGSC. Analysis of exceptional outcome patients, in this case gBRCApv-carriers with an atypically short survival, may identify determinants of outcome applicable to the wider HGSC patient population.",
+    "organism": "Homo sapiens",
+    "data_type": "expression",
+    "platform": null,
+    "n_samples": 24,
+    "conditions": [],
+    "normalized_bridge": {
+      "genes": [
+        "BRCA1"
+      ],
+      "diseases": [],
+      "processes": [],
+      "pathways": [],
+      "keywords": [
+        "cancer"
+      ]
+    }
+  },
+  {
+    "accession": "GSE292585",
+    "title": "Mechanism of SETX-BRCA1-BARD1 complex in resolution of R-loops and transcription-replication conflicts",
+    "summary": "Senataxin (SETX), a RNA-DNA helicase, is recruited to transcription pause sites via the tumor suppressor BRCA1. Here, we define the mechanism by which SETX-BRCA1 resolves transcription-associated R-loops to prevent deleterious outcomes. Specifically, we show that SETX unwinds R-loops, and that the complex of BRCA1 and its obligatory partner BARD1 binds R-loops and stimulates R-loop unwinding by SETX. Importantly, BRCA1-BARD1 alleviates the inhibitory effect of RAD52 on SETX-mediated R-loop unwinding. We also demonstrate that phosphorylation of Ser642 in SETX promotes its interaction with BRCA1 via the tandem BRCT domain of the latter. Accordingly, mutations in the catalytic domain or Ser642 in SETX lead to R-loop accumulation, transcription-replication conflicts, replication fork stalling, and DNA double strand breaks in human cells. Our results thus establish the molecular basis for functional synergy between SETX and BRCA1-BARD1 in R-loop resolution and the mitigation of transcription-replication conflicts to preserve genome integrity.",
+    "organism": "Homo sapiens",
+    "data_type": "expression",
+    "platform": null,
+    "n_samples": 10,
+    "conditions": [],
+    "normalized_bridge": {
+      "genes": [
+        "BRCA1"
+      ],
+      "diseases": [],
+      "processes": [],
+      "pathways": [],
+      "keywords": [
+        "cancer"
+      ]
+    }
+  },
+  
+  {
+    "accession": "GSE283656",
+    "title": "Assessing mifepristone's effects on endometrial tissue in women with BRCA mutations: A randomised clinical trial",
+    "summary": "Background: The endometrium, regulated by steroid hormones, is particularly susceptible to disease under imbalanced hormonal conditions. Progesterone regulates cell growth differently across tissues, acting as a pro-tumorigenic agent in the breast while serving as a tumor suppressor in the endometrium by countering the effects of oestradiol. Progesterone receptor modulators like mifepristone may prevent breast cancer formation but raise concerns about unopposed oestradiol exposure in the endometrium. This study examines mifepristone’s impact on the endometrium, particularly its potential link to endometrial carcinogenesis in BRCA mutation carriers, who have DNA repair and replication vulnerabilities. Methods: This study was part of a randomised, double-blind, placebo-controlled trial in which pre-menopausal women carrying BRCA1 or BRCA2 mutations were assigned to a three-month treatment with either mifepristone (50 mg) or a non-hormonal comparator (TrioB) every second day. Endometrial biopsies were collected pre- and post- treatment, processed, and analysed for changes in endometrial thickness, cellular composition, methylation patterns, and gene expression profiles. Compliance and safety monitoring were rigorously maintained. Results: Mifepristone treatment led to amenorrhea in all treated participants, consistent with its inhibition of ovulation. Ultrasound showed a non-significant increase in endometrial thickness post-treatment. Cellular analysis indicated a shift in composition, with a reduction in epithelial cells and an increase in fibroblast levels, suggesting that endometrial thickening may primarily reflect stromal expansion rather than epithelial proliferation. This distinction is clinically important, as epithelial proliferation is more closely associated with carcinogenesis. DNA methylation analysis revealed no significant alterations in the TCGA-EC methylation index, and gene expression profiling showed no significant elevation in carcinogenesis-related genes. Conclusions: Mifepristone treatment in BRCA mutation carriers does not significantly impact methylation or gene expression profiles associated with endometrial carcinogenesis. The findings support from the safety of short-term mifepristone use in this population, although long-time safety of mifepristone use in BRCA mutation carriers will be needed.",
+    "organism": "Homo sapiens",
+    "data_type": "expression",
+    "platform": null,
+    "n_samples": 28,
+    "conditions": [],
+    "normalized_bridge": {
+      "genes": [
+        "BRCA1"
+      ],
+      "diseases": [],
+      "processes": [],
+      "pathways": [],
+      "keywords": [
+        "cancer"
+      ]
+    }
+  },
+  {
+    "accession": "GSE300163",
+    "title": "The Breakome of BRCA1 and BRCA2 Mutation Carriers Reveals Early Processes in Breast Oncogenesis",
+    "summary": "DNA double-strand breaks (DSBs) can lead to genome instability in cancer. Cells rely on an efficient DNA damage response (DDR) to maintain their DNA integrity and prevent oncogenic transformation. However, the early events that connect recurrent DNA damage to oncogenesis are not yet fully understood. Here, we employed in-suspension Breaks Labeling in-situ and Sequencing (sBLISS) to identify DSBs in primary cells of non-malignant carriers of BRCA1 and BRCA2 mutations (BRCAmut), categorized as high-risk patients, to characterize the effects of homologous recombination (HR) loss on cancer initiation. We demonstrate that the landscape of physiological DSBs in BRCAmut samples differs from that in healthy controls, and resemble more the pattern observed in cancer cells. Our results reveal that proto-oncogenes and tumor suppressors contain more breaks in BRCAmut samples, and that highly broken genes tend to be more highly expressed.  These highly broken genes are also often mutated in breast cancer tumors. Finally, differentially broken genes in BRCAmut samples exhibit a strong correlation with homologous recombination repair. Together, our findings underscore the impact of BRCA loss on the early stages of carcinogenesis and highlight future possibilities for early cancer detection.",
+    "organism": "Homo sapiens",
+    "data_type": "expression",
+    "platform": null,
+    "measurements": [
+      {
+        "sample_id": "sample_1",
+        "condition": "wildtype",
+        "expression_value": 2.22,
+        "fold_change": 2.22,
+        "label": "upregulated"
+      },
+      {
+        "sample_id": "sample_2",
+        "condition": "mutant",
+        "expression_value": 2.61,
+        "fold_change": 2.61,
+        "label": "upregulated"
+      },
+      {
+        "sample_id": "sample_3",
+        "condition": "disease",
+        "expression_value": 0.82,
+        "fold_change": 0.82,
+        "label": "normal"
+      },
+      {
+        "sample_id": "sample_4",
+        "condition": "control",
+        "expression_value": 1.0,
+        "fold_change": 1.0,
+        "label": "normal"
+      },
+      {
+        "sample_id": "sample_5",
+        "condition": "control",
+        "expression_value": 1.0,
+        "fold_change": 1.0,
+        "label": "normal"
+      },
+      {
+        "sample_id": "sample_6",
+        "condition": "wildtype",
+        "expression_value": 0.82,
+        "fold_change": 0.82,
+        "label": "normal"
+      },
+      {
+        "sample_id": "sample_7",
+        "condition": "control",
+        "expression_value": 1.0,
+        "fold_change": 1.0,
+        "label": "normal"
+      },
+      {
+        "sample_id": "sample_8",
+        "condition": "control",
+        "expression_value": 1.0,
+        "fold_change": 1.0,
+        "label": "normal"
+      },
+      {
+        "sample_id": "sample_9",
+        "condition": "mutant",
+        "expression_value": 2.0,
+        "fold_change": 2.0,
+        "label": "upregulated"
+      },
+      {
+        "sample_id": "sample_10",
+        "condition": "control",
+        "expression_value": 1.0,
+        "fold_change": 1.0,
+        "label": "normal"
+      }
+    ],
+    "n_samples": 62,
+    "conditions": [],
+    "normalized_bridge": {
+      "genes": [
+        "BRCA1", "DLEC1"
+      ],
+      "diseases": [],
+      "processes": [],
+      "pathways": [],
+      "keywords": [
+        "cancer"
+      ]
+    }
+  }
+]
